@@ -28,6 +28,9 @@ Core tables include:
 - `volunteers`, `shifts`, `volunteer_shift`
 - `partners`, `event_partner`
 
+## ERD
+![ERD](docs/erd.png)
+
 ## Setup (MySQL/MariaDB)
 1. Open MySQL/MariaDB client (or phpMyAdmin / DBeaver)
 2. Run the script:
