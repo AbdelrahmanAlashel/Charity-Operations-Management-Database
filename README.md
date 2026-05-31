@@ -41,6 +41,8 @@ This script:
 - creates all tables (PK/FK constraints)
 - inserts synthetic sample data
 
+Contributors: Adelagun Habeeb, Mohamed Elsabah, Haisen Wang
+
 ## Example Queries
 **Campaign totals**
 ```sql
